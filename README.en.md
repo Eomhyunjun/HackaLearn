@@ -6,13 +6,28 @@
     <img src="assets/banner-768x216@2-en.png" alt="HackaLearn Banner" width="100%"/>
 </div>
 
+***HackaLearn 2021 IS OVER.***
+
 HackaLearn is the term combining both Hackathon and Learn, which is the event that you learn something and apply it during the hackathon period within the given short period of time. This HackaLearn's theme is [Azure Static Web Apps][aswa] and [GitHub Actions][gha]. For two weeks, you learn both and build a web application by yourself or with your team, through this HackaLearn event! We are looking forward to seeing the AWESOME product from you! Cool prizes are waiting for your challenge!
 
 <div>
   <br>
-  <a href="http://aka.ms/hackalearn/register" title="Registration Link"><img src="./assets/registration-en@2.png" width="227" height="56" alt="Registration Button"/></a>
+  <!-- <a href="http://aka.ms/hackalearn/register" title="Registration Link"><img src="./assets/registration-en@2.png" width="227" height="56" alt="Registration Button"/></a> -->
+  <img src="./assets/registration-en@2.png" width="227" height="56" alt="Registration Button"/>
   <br>
 </div>
+
+
+## 🏅 HackaLearn Winners ##
+
+Here are winners for HackaLearn. Congratulations to all winners!
+
+* Completion of Cloud Skills Challenge 👉 [View Winners](./CLOUD_SKILL_CHALLENGES.md)
+* Social Media Challenge &ndash; 2 Winners 👉 [김시연](https://www.instagram.com/p/CSlyUPzpfWr/?utm_medium=copy_link), [박주은](https://www.instagram.com/p/CSlGgG8Ag0a/?utm_medium=copy_link)
+* Blog Post Challenge &ndash; 3 Winners 👉 [김호정](https://velog.io/@hokim/HackaLearn-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-%ED%8C%80%EC%98%A4%EB%AF%80-%EB%9D%BC%EC%9D%B4%EC%8A%A4), [김예림](https://blog.naver.com/sedagrq821/222470813632), [박수빈](https://subeen.io/blog/devs/2021-08-15-HackaLearn/)
+* Best for Creativity &ndash; 1 Winner 👉 [KING](./teams/KING.md)
+* Best for UX &ndash; 1 Winner 👉 [생생한국통](./teams/생생한국통.md)
+* Best for Social Good &ndash; 1 Winner 👉 [월급두배받는법](./teams/월급두배받는법.md)
 
 
 ## ⏰ Event Timeline ##
@@ -50,7 +65,18 @@ You MUST complete **all the SIX challenge missions** below. For more details wil
 
 ## 👑 Hall of Fame ##
 
-Teams who complete **all the FIVE challenge missions** are in the Hall of Fame. 👉 [Visit Hall of Fame][hof]
+Teams who complete **all the SIX challenge missions** are in the Hall of Fame. 👉 [Visit Hall of Fame][hof]
+
+
+## 🏆 Individual Challenges Completion ##
+
+Although not all SIX challenge missions have completed, teams and members who completed each challenge are also listed on the page.
+
+* **Completion of Cloud Skills Challenge &ndash; Azure Static Web Apps & GitHub Actions** 👉 [View](./CLOUD_SKILL_CHALLENGE.md)
+* **Completion of Social Media Challenge** 👉 [View](./SNS_POSTS.md)
+* **Completion of Azure Static Web Apps URL Challenge** 👉 [View](./ASWA_APPS.md)
+* **Completion of GitHub Repository Challenge** 👉 [View](./ASWA_REPOS.md)
+* **Completion of Blog Post Challenge** 👉 [View](./BLOG_POSTS.md)
 
 
 ## 💻 Hands-on-Lab Workshops ##
@@ -61,7 +87,7 @@ During the event, we are running a few hands-on-lab workshops for you. After the
 | :--: | :--: | :--: | :--: | :--: |
 | Code with [GCE][gce]: GitHub Actions | 8pm, August 3 (Tue), 2021 | [Live Streaming][live gce] | [Download][slide gce] | [Link][code gce] |
 | Code with [MLSA][mlsa]: Azure Static Web Apps | 8pm, August 5 (Thu), 2021 | [Live Streaming][live mlsa] | [Download][slide mlsa] | [Link][code mlsa] |
-| Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] [Download][slide ca] | [Link][code ca] |
+| Code with [Cloud Advocate][ca]: Building Gatsby Blog | 8pm, August 10 (Tue), 2021 | [Live Streaming][live ca] | [Download][slide ca] | [Link][code ca] |
 
 
 ## 🛠 Developer Tools Before You Go ##
@@ -82,10 +108,14 @@ During the challenge, participants may have technical questions to figure out. H
 
 ## 🏅 Awards ##
 
-* All participants who complete 6 challenges
-* 1 Team for Best Creativity &ndash; 1 Team
-* 1 Team for Best UX &ndash; 1 Team
-* 1 Team for Best Social Good &ndash; 1 Team
+* All participants who complete 6 challenges 👉 [View Winners](./CLOUD_SKILL_CHALLENGES.md)
+* Social Media Challenge &ndash; 2 Winners 👉 [김시연](https://www.instagram.com/p/CSlyUPzpfWr/?utm_medium=copy_link), [박주은](https://www.instagram.com/p/CSlGgG8Ag0a/?utm_medium=copy_link)
+* Blog Post Challenge &ndash; 3 Winners 👉 [김호정](https://velog.io/@hokim/HackaLearn-%EC%B0%B8%EC%97%AC-%ED%9B%84%EA%B8%B0-%ED%8C%80%EC%98%A4%EB%AF%80-%EB%9D%BC%EC%9D%B4%EC%8A%A4), [김예림](https://blog.naver.com/sedagrq821/222470813632), [박수빈](https://subeen.io/blog/devs/2021-08-15-HackaLearn/)
+* Best Creativity &ndash; 1 Winner 👉 [KING](./teams/KING.md)
+* Best UX &ndash; 1 Winner 👉 [생생한국통](./teams/생생한국통.md)
+* Best Social Good &ndash; 1 Winner 👉 [월급두배받는법](./teams/월급두배받는법.md)
+
+
 
 ## 🏆 Prizes ##
 
